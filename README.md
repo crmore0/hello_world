@@ -1,2 +1,4 @@
 # hello_world
-first repository
+
+Hi gitHub!!!
+This is my first contact with ror.
